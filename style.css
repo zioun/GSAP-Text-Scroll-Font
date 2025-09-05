@@ -20,8 +20,8 @@ html, body {
   font-family: "Arial", sans-serif;
   font-weight: 900;
   font-size: 500px; /* initial size */
-  background: url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80") no-repeat center center / cover;
-  background-size: fixed;
+  background: url("./photo-1653932133705-851f4547eb2b\ \(1\).jpeg") no-repeat center center / cover;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   border: 1px solid black;
