@@ -20,7 +20,7 @@ html, body {
   font-family: "Arial", sans-serif;
   font-weight: 900;
   font-size: 500px; /* initial size */
-  background: url("./photo-1653932133705-851f4547eb2b\ \(1\).jpeg") no-repeat center center / cover;
+  background: url("./img/city.jpeg") no-repeat center center / cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
